@@ -31,13 +31,13 @@ education:
   courses:
     - course: Master 2 in Economics of Markets and Organizations
       institution: Toulouse School of Economics
-      year: ""
+      year: 2022
     - course: Master 1 in Economics
       institution: Toulouse School of Economics
-      year: ""
+      year: 2020
     - course: BA in Economics & International Studies
       institution: The University of Oklahoma
-      year: ""
+      year: 2020
 email: ""
 superuser: true
 highlight_name: true
