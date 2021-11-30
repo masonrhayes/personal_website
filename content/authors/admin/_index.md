@@ -1,77 +1,78 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Mason Ross Hayes
+role: Economic and business consultant
+avatar_filename: cv_profile-small-.jpeg
+bio: Master’s student at the Toulouse School of Economics, interested in
+  industrial organization, consulting, & business strategy. Passionate about
+  technology, literature, and philosophy.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: ai
+    link: https://twitter.com/masonrhayes
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/masonrhayes
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/masonrhayes
+organizations:
+  - name: Toulouse School of Economics
+    url: https://tse-fr.eu/
+  - name: scite
+    url: https://scite.ai/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: Master 2 in Economics of Markets and Organizations
+      institution: Toulouse School of Economics
+      year: ""
+    - course: Master 1 in Economics
+      institution: Toulouse School of Economics
+      year: ""
+    - course: BA in Economics & International Studies
+      institution: The University of Oklahoma
+      year: ""
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+## Hi :wave:, I'm Mason!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I graduated in May 2020 from the [University of Oklahoma](https://www.ou.edu/) with a Bachelor's degree in Economics and International Studies, and I am now pursuing a Master's in Economics at the [Toulouse School of Economics](https://tse-fr.eu/) (TSE), where I focus on the [Economics of Markets and Organizations](https://www.tse-fr.eu/master-emo-international-track).
+
+Some of my former university projects include [capital concentration in Argentina](https://masonrhayes.com/publication/radical-party/) at the beginning of the 20th century, [populism and economic inequality in Turkey](https://masonrhayes.com/publication/populism-and-inequality-in-turkey/), the optimization of [pay-what-you-want pricing models](https://masonrhayes.com/publication/pwyw/pwyw.pdf), and the relationship between increasing [industrial concentration and inequality in the United States](https://masonrhayes.com/publication/the-inegalitarian-spiral/). At TSE, my projects include examining the health and welfare effects of a tax on sugar-sweetened beverages, as well as using a quasi-experimental differences-in-differences approach to estimate the effects of an earthquake on the level of informal competition in Chile.
+
+For my personal projects, I have created an R package, [`sciteR`](https://github.com/masonrhayes/sciteR), to gather journal-level citation data from [scite](https://scite.ai), a [Shiny web app](https://masonrhayes.shinyapps.io/coronavirus_app/) to track the spread of COVID-19, and a [simple R script](https://github.com/masonrhayes/cryptocurrency_analysis) to quickly visualize cryptocurrency price trends.
+
+## Languages
+
+<a href="https://www.r-project.org/"> <img src="https://user-images.githubusercontent.com/39578155/142780594-ca458999-f87f-4275-b019-66edd4b3cdd4.png" width="75" height="60" /> </a> <a href="https://julialang.org"> <img src="https://user-images.githubusercontent.com/39578155/142780578-be2c8aa4-359c-43aa-9d3a-655d4b938f7d.png" width="110" height="75" /> <a href="https://stata.com/"> <img src="https://www.stata.com/why-use-stata/i/stata_logo_med_blue-375.png" width="150" height="42.8" />
+
+![English](https://img.shields.io/static/v1?label=language&message=English%20%28native%29&color=blue)
+![Español (C1)](https://img.shields.io/static/v1?label=language&message=Español%20%28C1%29&color=yellow)
+![French (B1)](https://img.shields.io/static/v1?label=language&message=Français%20%28B1%29&color=crimson)
+
+## My GitHub stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonrhayes&hide=postscript,tex,html&theme=graywhite" />
+</a>
+
+## Professional experience
+
+See my \[LinkedIn](https://www.linkedin.com/in/masonrhayes) for my relevant work experience.
+
+## I enjoy:
+
+* Reading books :books:
+* Playing tennis :tennis:
+* Drinking coffee :coffee:
+* Learning languages :earth_americas:
