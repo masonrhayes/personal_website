@@ -64,7 +64,7 @@ For my personal projects, I have created an R package, [`sciteR`](https://github
 
 ## Professional experience
 
-See my \[LinkedIn](https://www.linkedin.com/in/masonrhayes) for my relevant work experience.
+See my [LinkedIn](https://www.linkedin.com/in/masonrhayes/) for my relevant work experience.
 
 ## I enjoy:
 
