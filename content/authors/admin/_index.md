@@ -54,9 +54,7 @@ For my personal projects, I have created an R package, [`sciteR`](https://github
 
 ## Languages
 
-![English](https://img.shields.io/static/v1?label=language&message=English%20%28native%29&color=blue)
-![Español (C1)](https://img.shields.io/static/v1?label=language&message=Español%20%28C1%29&color=yellow)
-![French (B1)](https://img.shields.io/static/v1?label=language&message=Français%20%28B1%29&color=crimson)
+![English](https://img.shields.io/static/v1?label=language&message=English%20%28native%29&color=blue) ![Español (C1)](https://img.shields.io/static/v1?label=language&message=Español%20%28C1%29&color=yellow) ![French (B1)](https://img.shields.io/static/v1?label=language&message=Français%20%28B1%29&color=crimson)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonrhayes&hide=postscript,tex,html&theme=graywhite" />
