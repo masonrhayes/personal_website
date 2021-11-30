@@ -6,9 +6,9 @@ bio: Master’s student at the Toulouse School of Economics, interested in
   industrial organization, consulting, & business strategy. Passionate about
   technology, literature, and philosophy.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Technology
+  - Literature
+  - Philosophy
 social:
   - icon: envelope
     icon_pack: fas
