@@ -60,10 +60,6 @@ For my personal projects, I have created an R package, [`sciteR`](https://github
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonrhayes&hide=postscript,tex,html&theme=graywhite" />
 </a>
 
-## Professional experience
-
-See my [LinkedIn](https://www.linkedin.com/in/masonrhayes/) for my relevant work experience.
-
 ## I enjoy:
 
 * Reading books :books:
